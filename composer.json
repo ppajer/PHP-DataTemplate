@@ -1,0 +1,20 @@
+{
+	"name": "ppajer/php-datatemplate",
+	"description": "A lightweight library for rendering HTML templates in a clean way.",
+    "keywords": ["html", "template"],
+    "homepage": "https://github.com/ppajer/PHP-DataTemplate",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Peter Pajer",
+            "email": "peter.p.pajer@gmail.com"
+        }
+    ],
+	"repositories": [
+		{
+			"type": "vcs",
+			"url": "https://github.com/ppajer/PHP-DataTemplate"
+		}
+	]
+}
