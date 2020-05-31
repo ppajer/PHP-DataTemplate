@@ -46,7 +46,7 @@ class DataTemplate {
 			return $part;
 
 		} else {
-			return '';
+			return $this->fillTemplate($this->getTemplate($template), $data);
 		}
 	}
 
